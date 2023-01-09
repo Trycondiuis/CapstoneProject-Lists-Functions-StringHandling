@@ -1,0 +1,8 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+jose, New Title For Task_Manager.Py, this is a new task added to the python file, 01 Dec 2022, 10 Dec 2022, No
+angel, Creating A  Python Project, create a python project to fulfill the criteria given by HyperionDV, 01 Dec 2022, 04 Dec 2022, Yes
+angel, Meal Prep, prepare a meal for every week day, 01 Dec 2022, 25 Jan 2023, Yes
+antonio, Using Task_Manager.Py To Learn Python, create a program tha will help you understand conditional statements, 03 Dec 2022, 04 Dec 2022, No
+thor, Charge Your Hammer, point Mjölnir up to the sky and call upon the old norsen gods to charge it, 03 Dec 2022, 14 Feb 2023, No
+thor, Survive Ragnarök, Survive Ragnarök for as long as you can and defeat your evil sister, 13 Dec 2022, 25 Dec 2022, No
